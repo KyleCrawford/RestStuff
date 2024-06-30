@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5sw9PjZZZkKIT4Cuqcj0NXh7GExrlzG0U0eGpjH2dkHWWLp9rSIrQM7c8K348jNFuQQFmYbm15gDDsYCuA6hA==",
+  "success": true,
+  "projectFilePath": "D:\\ShareMe\\Code\\NewPlayTest\\NewPlayTest\\NewPlayTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kyle Crawford\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Kyle Crawford\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Kyle Crawford\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kyle Crawford\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Kyle Crawford\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
